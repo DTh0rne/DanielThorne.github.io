@@ -1,0 +1,12 @@
+h1 {color: red; font-size: 16pt;}
+Body {background: navy;
+		color:pink;
+		font-size:16pt;
+	}
+nav a {	display: inline-block;
+        	border: 2px solid navy;
+        	padding: 10px;
+		margin: 3px;
+		background: navy;}
+
+a:hover { color: pink }
